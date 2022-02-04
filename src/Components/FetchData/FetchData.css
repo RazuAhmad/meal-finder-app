@@ -1,0 +1,8 @@
+.fetchDataStyle {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 12px;
+  row-gap: 12px;
+  margin-left: 17px;
+  margin-right: 15px;
+}
